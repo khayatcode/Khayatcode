@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences: [(Resume Link Here)]
 
-- ⚡ Fun fact: **Lifelong learner, challenges enthusiast, constantly growing.**
+- ⚡ Fun fact: **Lifelong learner, challenge enthusiast, always growing.**
 
 
 <h3 align="left">Languages and Tools:</h3>
