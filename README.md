@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning: **Django, Tailwind, Sass**
 
-- 👨‍💻 All of my projects are available at: [(Portfolio Link Here)]
-
 - 💬 Ask me about: **MERN, Java, Python**
 
-- 📫 How to reach me: **a.khayatcode0103@gmail.com**
+- 👨‍💻 All of my projects are available at: [(Portfolio Link Here)]
 
 - 📄 Know about my experiences: [(Resume Link Here)]
+
+- 📫 How to reach me: **a.khayatcode0103@gmail.com**
 
 - ⚡ Fun fact: **Lifelong learner, challenge enthusiast, always growing.**
 
