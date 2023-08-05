@@ -11,7 +11,7 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
+<img align="right" alt="Coding" width="380" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif"/>
 
 - 🌱 I’m currently learning: **Django, Tailwind, Sass**
 
