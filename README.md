@@ -1,7 +1,7 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adam Khayat</h3>
 
 <p align="center">
-  <a href="https://www.google.com/?&bih=1000&biw=1920&client=safari&hl=en">Website (Soon)</a> •
+  <a href="https://adamkhayatportfolio.netlify.app/">Portfolio Website</a> •
   <a href="www.linkedin.com/in/adamkhayat123">Linkedin</a>
 </p>
 
