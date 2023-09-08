@@ -1,8 +1,8 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Adam Khayat</h3>
 
 <p align="center">
-  <a href="https://adamkhayatportfolio.netlify.app/">Portfolio Website</a> •
-  <a href="www.linkedin.com/in/adamkhayat123">Linkedin</a>
+  <a href="https://adamkhayatportfolio.netlify.app/" target="_blank">Portfolio Website</a> •
+  <a href="www.linkedin.com/in/adamkhayat123" target="_blank">Linkedin</a>
 </p>
 
 ---
@@ -17,9 +17,9 @@
 
 - 💬 Ask me about: **MERN, Java, Python**
 
-- 👨‍💻 View my portfolio: <a href="https://adamkhayatportfolio.netlify.app/">adamkhayatportfolio.netlify.app</a>
+- 👨‍💻 View my portfolio: <a href="https://adamkhayatportfolio.netlify.app/" target="_blank">adamkhayatportfolio.netlify.app</a>
 
-- 📄 Know about my experiences: <a href="https://adamkhayatportfolio.netlify.app/AdamResume.pdf">AdamKhayatResume.pdf</a>
+- 📄 Know about my experiences: <a href="https://adamkhayatportfolio.netlify.app/AdamResume.pdf" target="_blank">AdamKhayatResume.pdf</a>
 
 - 📫 How to reach me: **a.khayatcode0103@gmail.com**
 
