@@ -17,9 +17,9 @@
 
 - 💬 Ask me about: **MERN, Java, Python**
 
-- 👨‍💻 All of my projects are available at: [(Portfolio Link Here)]
+- 👨‍💻 View my portfolio: <a href="https://adamkhayatportfolio.netlify.app/">adamkhayatportfolio.netlify.app</a>
 
-- 📄 Know about my experiences: [(Resume Link Here)]
+- 📄 Know about my experiences: <a href="https://adamkhayatportfolio.netlify.app/AdamResume.pdf">AdamKhayatResume.pdf</a>
 
 - 📫 How to reach me: **a.khayatcode0103@gmail.com**
 
