@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://adamkhayatportfolio.netlify.app/" target="_blank">Portfolio Website</a> •
-  <a href="www.linkedin.com/in/adamkhayat123" target="_blank">Linkedin</a>
+  <a href="https://www.linkedin.com/in/adamkhayat123/" target="_blank">Linkedin</a>
 </p>
 
 ---
